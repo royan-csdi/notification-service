@@ -1,3 +1,4 @@
-import env from './env.config'
+import env from "./env.config"
+import RedisClient from "./redis.config"
 
-export { env }
+export { env, RedisClient }
