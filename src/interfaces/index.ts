@@ -1,3 +1,4 @@
-import { IEnv } from './env.interface'
+import { IEnv } from "./env.interface"
+import INotification from "./notification.interface"
 
-export { IEnv }
+export { IEnv, INotification }
